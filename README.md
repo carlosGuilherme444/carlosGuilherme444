@@ -1,6 +1,6 @@
-- 👋 Olá, sou Carlos Guilherme
-- 👀 Estou interessado em python
-- 🌱 Atualmente estou aprendendo HTML5, CSS3, JavaScript etc.
+- 👋 Olá, sou o Carlos Guilherme!
+- 👀 Estou interessado em Front-End.
+- 🌱 Atualmente estou aprendendo Front-End.
 
 
 <!---
