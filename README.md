@@ -1,4 +1,4 @@
-## Olá eu sou o Carlos Guilherme, Desenvolvedor da Web e Criador de Softwares 💻 🤪
+## Olá eu sou o Carlos Guilherme, Desenvolvedor da Web e de Softwares 💻 🤪
 
 <div align="center">
   <a href="https://github.com/carlosGuilherme444">
