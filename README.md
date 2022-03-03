@@ -2,9 +2,6 @@
 - 👀 Estou interessado em Front-End.
 - 🌱 Atualmente estou aprendendo Front-End.
 
-<script>
- alert("teste");
-</script>
 
  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
