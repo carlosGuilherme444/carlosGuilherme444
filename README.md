@@ -1,5 +1,5 @@
 - 👋 Olá, sou o Carlos Guilherme!
-- 👀 Estou interessado em Front-End.
+- 👀 Estou interessado em Back-End.
 - 🌱 Atualmente estou aprendendo Front-End.
 
 
