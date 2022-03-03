@@ -1,6 +1,4 @@
-- 👋 Olá, sou o Carlos Guilherme!
-- 👀 Estou interessado em Back-End.
-- 🌱 Atualmente estou aprendendo Front-End.
+## 👋 Olá eu sou o Carlos Guilherme, Desenvolvedor da Web e Criador de Softwares 💻 🤪
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 <!---
