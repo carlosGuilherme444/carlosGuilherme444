@@ -10,7 +10,7 @@
   <img align="center" alt="cgui-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="cgui-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="cgui-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://drive.google.com/file/d/10wJyJpVo9F9jrXCvqGd36vjb3n45aCad/view?usp=sharing">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/872833765817335821/950084222389985290/1646587931445.png">
 </div>
   
   ##
