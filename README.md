@@ -1,5 +1,5 @@
 ## Olá eu sou o Carlos Guilherme, Web Developer & Software Developer 💻 🤪
-<marquee width="300">TESTE</marquee>
+
 <div align="center">
   <a href="https://github.com/carlosGuilherme444">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlosGuilherme444&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
